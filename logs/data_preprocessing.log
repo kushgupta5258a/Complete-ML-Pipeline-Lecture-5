@@ -1,0 +1,260 @@
+2025-10-15 00:23:38,795 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-15 00:23:38,796 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-15 00:23:38,799 - data_preprocessing - DEBUG - Target column encoded
+2025-10-15 00:23:38,808 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-15 00:23:38,813 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:23:38,815 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:27:42,186 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-15 00:27:42,187 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-15 00:27:42,189 - data_preprocessing - DEBUG - Target column encoded
+2025-10-15 00:27:42,194 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-15 00:27:42,196 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:27:42,197 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:32:06,756 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-15 00:32:06,756 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-15 00:32:06,760 - data_preprocessing - DEBUG - Target column encoded
+2025-10-15 00:32:06,767 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-15 00:32:06,771 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:32:06,772 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:34:07,557 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-15 00:34:07,557 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-15 00:34:07,559 - data_preprocessing - DEBUG - Target column encoded
+2025-10-15 00:34:07,563 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-15 00:34:07,568 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:34:07,569 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:38:11,691 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-15 00:38:11,691 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-15 00:38:11,693 - data_preprocessing - DEBUG - Target column encoded
+2025-10-15 00:38:11,696 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-15 00:38:11,699 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:38:11,700 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\atharva/nltk_data'
+    - 'C:\\Program Files\\Python313\\nltk_data'
+    - 'C:\\Program Files\\Python313\\share\\nltk_data'
+    - 'C:\\Program Files\\Python313\\lib\\nltk_data'
+    - 'C:\\Users\\atharva\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-10-15 00:42:01,375 - data_preprocessing - DEBUG - Data loaded properly
+2025-10-15 00:42:01,376 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-15 00:42:01,378 - data_preprocessing - DEBUG - Target column encoded
+2025-10-15 00:42:01,381 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-15 00:42:11,545 - data_preprocessing - DEBUG - Text column transformed
+2025-10-15 00:42:11,545 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-10-15 00:42:11,546 - data_preprocessing - DEBUG - Target column encoded
+2025-10-15 00:42:11,548 - data_preprocessing - DEBUG - Duplicates removed
+2025-10-15 00:42:14,226 - data_preprocessing - DEBUG - Text column transformed
+2025-10-15 00:42:14,240 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
